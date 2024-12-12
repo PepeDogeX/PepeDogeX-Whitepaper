@@ -6,8 +6,9 @@ Here's the updated README file:
 *Introduction*
 Welcome to the official PepeDogeX (PDGX) whitepaper repository. PepeDogeX is a community-driven cryptocurrency token combining the viral appeal of Pepe and Doge.
 
-*Contents*
-1. https://github.com/PepeDogeX/PepeDogeX-Whitepaper/blob/main/PepeDogeX_Whitepaper.pdf: Detailed documentation of PepeDogeX's mission, tokenomics, and roadmap.
+*Contents
+https://github.com/PepeDogeX/PepeDogeX-Whitepaper/blob/main/%23%20PepeDogeX%20(PDGx)%20White%20Paper.pdf
+Detailed documentation of PepeDogeX's mission, tokenomics, and roadmap.
 
 *About PepeDogeX*
 PepeDogeX is a token designed for entertainment and community engagement. Our mission is to create a fun and inclusive ecosystem for cryptocurrency enthusiasts.
